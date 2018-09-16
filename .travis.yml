@@ -24,6 +24,7 @@ env:
     - PKG_NAME=cubefree
     - PKG_NAME=cvec
     - PKG_NAME=datastructures
+    - PKG_NAME=deepthought
     - PKG_NAME=digraphs
     - PKG_NAME=example
     - PKG_NAME=factint
@@ -49,8 +50,10 @@ env:
     - PKG_NAME=json
     - PKG_NAME=jupyterkernel
     - PKG_NAME=kan
+    - PKG_NAME=kbmag
     - PKG_NAME=laguna
     - PKG_NAME=liealgdb
+    - PKG_NAME=mapclass
     - PKG_NAME=matgrp
     - PKG_NAME=modisom
     - PKG_NAME=normalizinterface
@@ -83,6 +86,7 @@ env:
     - PKG_NAME=unitlib
     - PKG_NAME=utils
     - PKG_NAME=uuid
+    - PKG_NAME=wedderga
     - PKG_NAME=xmod
     - PKG_NAME=xmodalg
     - PKG_NAME=zeromqinterface
