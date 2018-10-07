@@ -41,8 +41,8 @@ env:
     - PKG_NAME=grape
     - PKG_NAME=groupoids
     - PKG_NAME=grpconst
-    - PKG_NAME=guava
     - PKG_NAME=guarana
+    - PKG_NAME=guava
     - PKG_NAME=hap
     - PKG_NAME=hecke
     - PKG_NAME=help
