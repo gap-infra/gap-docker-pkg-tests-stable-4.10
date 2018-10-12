@@ -20,6 +20,7 @@ env:
     - PKG_NAME=circle
     - PKG_NAME=cohomolo
     - PKG_NAME=congruence
+    - PKG_NAME=crime
     - PKG_NAME=crisp
     - PKG_NAME=crypting
     - PKG_NAME=crystcat
@@ -56,6 +57,7 @@ env:
     - PKG_NAME=kbmag
     - PKG_NAME=laguna
     - PKG_NAME=liealgdb
+    - PKG_NAME=liepring
     - PKG_NAME=lpres
     - PKG_NAME=mapclass
     - PKG_NAME=matgrp
@@ -83,6 +85,7 @@ env:
     - PKG_NAME=singular
     - PKG_NAME=smallgrp
     - PKG_NAME=smallsemi
+    - PKG_NAME=sonata
     - PKG_NAME=sophus
     - PKG_NAME=spinsym
     - PKG_NAME=toric
