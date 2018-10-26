@@ -23,6 +23,7 @@ env:
     - PKG_NAME=crime
     - PKG_NAME=crisp
     - PKG_NAME=crypting
+    - PKG_NAME=cryst
     - PKG_NAME=crystcat
     - PKG_NAME=cubefree
     - PKG_NAME=cvec
@@ -82,6 +83,7 @@ env:
     - PKG_NAME=scscp
     - PKG_NAME=semigroups
     - PKG_NAME=sglppow
+    - PKG_NAME=simpcomp
     - PKG_NAME=singular
     - PKG_NAME=smallgrp
     - PKG_NAME=smallsemi
