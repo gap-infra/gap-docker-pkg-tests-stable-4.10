@@ -12,6 +12,7 @@ env:
     - PKG_NAME=aclib
     - PKG_NAME=alnuth
     - PKG_NAME=anupq
+#    - PKG_NAME=atlasrep # default 6 DIFFS | no pkg 8 DIFFS | all pkg 6 DIFFS
     - PKG_NAME=autodoc
     - PKG_NAME=automata
     - PKG_NAME=automgrp
@@ -25,7 +26,9 @@ env:
     - PKG_NAME=crypting
     - PKG_NAME=cryst
     - PKG_NAME=crystcat
+#    - PKG_NAME=ctbllib # default 26 DIFFS | no pkg 26 DIFFS | all pkg 26 DIFFS
     - PKG_NAME=cubefree
+    - PKG_NAME=curlinterface
     - PKG_NAME=cvec
     - PKG_NAME=datastructures
     - PKG_NAME=deepthought
@@ -39,6 +42,7 @@ env:
     - PKG_NAME=forms
     - PKG_NAME=fplsa
     - PKG_NAME=fr
+#    - PKG_NAME=gbnp # default 1 DIFFS | no pkg 1 DIFFS | all pkg 1 DIFFS
     - PKG_NAME=genss
     - PKG_NAME=grape
     - PKG_NAME=groupoids
@@ -46,6 +50,7 @@ env:
     - PKG_NAME=guarana
     - PKG_NAME=guava
     - PKG_NAME=hap
+#    - PKG_NAME=hapcryst # default 9 DIFFS | no pkg 9 DIFFS | all pkg 9 DIFFS
     - PKG_NAME=hecke
     - PKG_NAME=help
     - PKG_NAME=idrel
@@ -59,6 +64,7 @@ env:
     - PKG_NAME=laguna
     - PKG_NAME=liealgdb
     - PKG_NAME=liepring
+#    - PKG_NAME=loops # default UNCLEAR | no pkg UNCLEAR | all pkg NOT STARTED
     - PKG_NAME=lpres
     - PKG_NAME=mapclass
     - PKG_NAME=matgrp
@@ -72,6 +78,7 @@ env:
     - PKG_NAME=permut
     - PKG_NAME=polenta
     - PKG_NAME=polycyclic
+#    - PKG_NAME=polymaking # default 5 DIFFS | no pkg 5 DIFFS | all pkg 5 DIFFS
     - PKG_NAME=primgrp
     - PKG_NAME=profiling
     - PKG_NAME=qaos
@@ -83,6 +90,7 @@ env:
     - PKG_NAME=scscp
     - PKG_NAME=semigroups
     - PKG_NAME=sglppow
+#    - PKG_NAME=sgpviz # default PASS | no pkg PASS | all pkg 2 DIFFS
     - PKG_NAME=simpcomp
     - PKG_NAME=singular
     - PKG_NAME=smallgrp
@@ -90,6 +98,7 @@ env:
     - PKG_NAME=sonata
     - PKG_NAME=sophus
     - PKG_NAME=spinsym
+    - PKG_NAME=tomlib
     - PKG_NAME=toric
     - PKG_NAME=transgrp
     - PKG_NAME=unipot
