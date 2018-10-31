@@ -42,6 +42,7 @@ env:
     - PKG_NAME=forms
     - PKG_NAME=fplsa
     - PKG_NAME=fr
+    - PKG_NAME=francy
 #    - PKG_NAME=gbnp # default 1 DIFFS | no pkg 1 DIFFS | all pkg 1 DIFFS
     - PKG_NAME=genss
     - PKG_NAME=grape
@@ -90,7 +91,7 @@ env:
     - PKG_NAME=scscp
     - PKG_NAME=semigroups
     - PKG_NAME=sglppow
-#    - PKG_NAME=sgpviz # default PASS | no pkg PASS | all pkg 2 DIFFS
+    - PKG_NAME=sgpviz
     - PKG_NAME=simpcomp
     - PKG_NAME=singular
     - PKG_NAME=smallgrp
