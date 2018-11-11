@@ -65,7 +65,7 @@ env:
     - PKG_NAME=laguna
     - PKG_NAME=liealgdb
     - PKG_NAME=liepring
-#    - PKG_NAME=loops # default UNCLEAR | no pkg UNCLEAR | all pkg NOT STARTED
+    - PKG_NAME=loops
     - PKG_NAME=lpres
     - PKG_NAME=mapclass
     - PKG_NAME=matgrp
