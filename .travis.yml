@@ -26,7 +26,7 @@ env:
     - PKG_NAME=crypting
     - PKG_NAME=cryst
     - PKG_NAME=crystcat
-#    - PKG_NAME=ctbllib # default 26 DIFFS | no pkg 26 DIFFS | all pkg 26 DIFFS
+#    - PKG_NAME=ctbllib # default 14 DIFFS | no pkg 14 DIFFS | all pkg 14 DIFFS
     - PKG_NAME=cubefree
     - PKG_NAME=curlinterface
     - PKG_NAME=cvec
@@ -60,6 +60,7 @@ env:
     - PKG_NAME=irredsol
     - PKG_NAME=json
     - PKG_NAME=jupyterkernel
+    - PKG_NAME=jupyterviz
     - PKG_NAME=kan
     - PKG_NAME=kbmag
     - PKG_NAME=laguna
@@ -67,6 +68,7 @@ env:
     - PKG_NAME=liepring
     - PKG_NAME=loops
     - PKG_NAME=lpres
+    - PKG_NAME=majoranaalgebras
     - PKG_NAME=mapclass
     - PKG_NAME=matgrp
     - PKG_NAME=modisom
@@ -75,6 +77,7 @@ env:
     - PKG_NAME=numericalsgps
     - PKG_NAME=openmath
     - PKG_NAME=orb
+    - PKG_NAME=packagemanager
     - PKG_NAME=patternclass
     - PKG_NAME=permut
     - PKG_NAME=polenta
@@ -99,6 +102,7 @@ env:
     - PKG_NAME=sonata
     - PKG_NAME=sophus
     - PKG_NAME=spinsym
+    - PKG_NAME=thelma
     - PKG_NAME=tomlib
     - PKG_NAME=toric
     - PKG_NAME=transgrp
@@ -106,9 +110,11 @@ env:
     - PKG_NAME=unitlib
     - PKG_NAME=utils
     - PKG_NAME=uuid
+    - PKG_NAME=walrus
     - PKG_NAME=wedderga
     - PKG_NAME=xmod
     - PKG_NAME=xmodalg
+    - PKG_NAME=yangbaxter
     - PKG_NAME=zeromqinterface
 
 services:
