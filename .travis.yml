@@ -61,7 +61,7 @@ env:
     - PKG_NAME=irredsol
     - PKG_NAME=json
     - PKG_NAME=jupyterkernel
-#    - PKG_NAME=jupyterviz
+    - PKG_NAME=jupyterviz
     - PKG_NAME=kan
     - PKG_NAME=kbmag
     - PKG_NAME=laguna
