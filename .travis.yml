@@ -56,7 +56,7 @@ env:
     - PKG_NAME=hecke
     - PKG_NAME=help
     - PKG_NAME=idrel
-    - PKG_NAME=intpic
+#    - PKG_NAME=intpic
     - PKG_NAME=io
     - PKG_NAME=irredsol
     - PKG_NAME=json
@@ -88,7 +88,7 @@ env:
     - PKG_NAME=profiling
     - PKG_NAME=qpa
     - PKG_NAME=radiroot
-    - PKG_NAME=rcwa
+#    - PKG_NAME=rcwa
 #    - PKG_NAME=recog
     - PKG_NAME=resclasses
     - PKG_NAME=scscp
