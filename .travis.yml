@@ -32,6 +32,7 @@ env:
     - PKG_NAME=deepthought
     - PKG_NAME=design
     - PKG_NAME=digraphs
+    - PKG_NAME=edim
     - PKG_NAME=example
     - PKG_NAME=factint
     - PKG_NAME=fga
@@ -73,7 +74,6 @@ env:
     - PKG_NAME=numericalsgps
     - PKG_NAME=openmath
     - PKG_NAME=orb
-    - PKG_NAME=packagemanager
     - PKG_NAME=patternclass
     - PKG_NAME=permut
     - PKG_NAME=polenta
@@ -102,6 +102,7 @@ env:
     - PKG_NAME=transgrp
     - PKG_NAME=unipot
     - PKG_NAME=unitlib
+    - PKG_NAME=utils
     - PKG_NAME=uuid
     - PKG_NAME=walrus
     - PKG_NAME=wedderga
