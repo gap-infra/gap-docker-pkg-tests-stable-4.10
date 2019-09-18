@@ -52,6 +52,7 @@ env:
     - PKG_NAME=hecke
     - PKG_NAME=help
     - PKG_NAME=idrel
+    - PKG_NAME=intpic
     - PKG_NAME=io
     - PKG_NAME=irredsol
     - PKG_NAME=json
